@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/obaji/Desktop/CODING/the-hive-main/app/%28app%29/loading.tsx"],"sourcesContent":["import React from 'react'\n\nimport { Skeleton } from '@/components/ui'\n\nconst Loading: React.FC = () => {\n    return (\n        <Skeleton className=\"h-full w-full\" />\n    )\n}\n\nexport default Loading"],"names":[],"mappings":";;;;AAEA;AAAA;;;AAEA,MAAM,UAAoB;IACtB,qBACI,8OAAC,6HAAA,CAAA,WAAQ;QAAC,WAAU;;;;;;AAE5B;uCAEe"}},
+    {"offset": {"line": 25, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

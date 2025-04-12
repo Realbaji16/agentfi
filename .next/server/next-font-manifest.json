@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/app/page": [
+      "static/media/rP2Yp2ywxg089UriI5_g4vlH9VoD8Cmcqbu0_K6z9mXg-s.p.679aa8e2.woff2",
+      "static/media/aFTR7PB1QTsUX8KYvrGyEYOtbYf_Vlg-s.p.c754de63.woff2",
+      "static/media/aFTU7PB1QTsUX8KYthqQBK6PYK0-s.p.e94d3289.woff2",
+      "static/media/aFTR7PB1QTsUX8KYvumzEYOtbYf_Vlg-s.p.9f48bac5.woff2"
+    ],
+    "[project]/app/(app)/chat/page": [
+      "static/media/rP2Yp2ywxg089UriI5_g4vlH9VoD8Cmcqbu0_K6z9mXg-s.p.679aa8e2.woff2",
+      "static/media/aFTR7PB1QTsUX8KYvrGyEYOtbYf_Vlg-s.p.c754de63.woff2",
+      "static/media/aFTU7PB1QTsUX8KYthqQBK6PYK0-s.p.e94d3289.woff2",
+      "static/media/aFTR7PB1QTsUX8KYvumzEYOtbYf_Vlg-s.p.9f48bac5.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
